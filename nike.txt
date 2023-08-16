@@ -1,0 +1,20 @@
+				WELCOME TO NIKE CLOTHING,SHOES AND ACCESSORIES
+
+Srno.		PRODUCT TYPE		DESCRIPTION   		PRODUCT CODE	PRICE
+
+  1.		  CLOTHING		FOOTBALL JERSEY		  FIFA22	Rs.2500
+  2.		  CLOTHING		BASKETBALL JERSEY	  NBA21		Rs.3500
+  3.		  CLOTHING		NIKE T-SHIRTS		  NIKE21        Rs.1000
+  4.		  CLOTHING		NIKE SHORTS AND PANTS     NIKE22        Rs.600 
+  5.              SHOES   		LIFESTYLE                 LF21          Rs.4500
+  6.              SHOES                 RUNNING                   RG21          Rs.5300
+  7.              SHOES                 JORDAN                    JO21          Rs.8500
+  8.              SHOES                 BASKETBALL                BB21          Rs.7500
+  9.              SHOES                 FOOTBALL                  FB21          Rs.11000
+  10.             SHOES                 TRAINING AND GYM          TG21          Rs.6200 
+  11.             SHOES                 GOLF                      GF21          Rs.4000
+  12.             SHOES                 TENNIS                    TS21          Rs.9000
+  13.             ACCESSORIES           BACKPACK                  BP21          Rs.2500
+  14.             ACCESSORIES           SOCKS                     SK21          Rs.400 
+  15.             ACCESSORIES           HAT                       HA21          Rs.700 
+  16.             ACCESSORIES           WATER BOTTLE              WB21          Rs.800

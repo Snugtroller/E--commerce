@@ -1,0 +1,12 @@
+NIKE-CLOTHES,SHOES,AND ACCESSORIES
+BILL NO.:503993
+PRODUCT                 QTY              PRICE
+Football jersey           1                2500
+Nike t-shirt              1                1000
+Date of Purchase:2023-08-14
+Name:harsh
+Phone no.:9972074314
+Address:bangalore
+Price:3500
+Discount:175.0
+Price after discount:3325.0
